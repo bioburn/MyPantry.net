@@ -9,3 +9,6 @@ The website logic, contents, and data are separated from each other using Code b
 The source file for MyPantry is located in Site/Demos/MyPantry.aspx
 The source file for the SQL Wrapper is located in Site/App_Code/dbHelper.cs
 
+MyPantry is originally an Android Java Application for users to enter grocery items into a SQL database. The App keeps track of quantity, price, and expirations for each item and notifies users of upcoming expiring items.
+
+
