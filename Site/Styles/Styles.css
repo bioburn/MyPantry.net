@@ -1,0 +1,72 @@
+* {
+    font-family: Arial;
+}
+
+header {
+    background-color: forestgreen;
+    width: 422px;
+    height: 86px;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+#PageWrapper {
+    width: 422px;
+    margin: auto;
+}
+
+#GroceryBox {
+    width: 422px;
+    margin: auto;
+    border-color:orange;
+}
+
+#GridView1{
+    
+}
+
+nav {
+    width: 844px;
+}
+
+section#MainContent {
+    width: 664px;
+    float: left;
+}
+
+aside {
+    background-color: gray;
+    width: 180px;
+    float: left;
+}
+
+footer {
+    background-color: #c0c0c0;
+    width: 844px;
+    clear: both;
+}
+
+#InputForm {
+    background-color: white;
+    width: 265px;
+    margin: auto;
+    border-left-width: 20px;
+    border: solid 2px orange
+}
+
+#Calendar1{
+    background-color:white;
+    border-color: orange;
+}
+
+#Button1{
+    background-color:orange;
+    width:265px;
+}
+
+.TitleText{
+    color:red;
+}
+
